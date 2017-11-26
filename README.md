@@ -1,1 +1,2 @@
 # image_capture
+抓取本地接口上HTTP流量中的图片并保存到文件中
