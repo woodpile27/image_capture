@@ -1,2 +1,2 @@
 # image_capture
-抓取本地接口上HTTP流量中的图片并保存到文件中
+抓取本地接口上HTTP流量中的图片并保存到文件中，目前只支持content-length存在和content-type为image等格式的
